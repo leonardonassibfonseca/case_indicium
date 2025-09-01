@@ -62,16 +62,19 @@ Passo 6 - Conclusão.
 
 ## 5.	Top 3 insights
 Hipótese 1: Filmes mais recentes têm notas mais altas?.
+
 Falsa: Não existe uma correlação positiva e sim uma negativa (0,179), ou seja, quanto mais velho o filme melhor é sua nota.
 
 ![Formulario_medico](img/grafico_hipotese_1.png)
 
 Hipótese 2: Filmes com elenco estrelado Star1 têm maior faturamento em relação aos filmes com elenco Star4?.
+
 Falsa: Filmes com atores classificados como Star4 apresentam em média um faturamento um pouco maior frente aos atores Star1, indicando que a classificação do ator não garante um faturamento maior por si só.
 
 ![Formulario_medico](img/grafico_hipotese_2.png)
 
 Hipótese 3: A nota média do IMDB aumentou ao longo dos anos?.
+
 Falsa: A nota média diminuiu ao longo dos anos.
 
 ![Formulario_medico](img/grafico_hipotese_3.png)
