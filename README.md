@@ -8,6 +8,7 @@
 
 ### Abrir o Jupyter Notebook: jupyter notebook
 
+
 # Case Indicium: Estúdio de Hollywood chamado PProductions
 
 Qual deverá ser o próximo lançamento cinematográfico da PProductions?
