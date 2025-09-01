@@ -30,65 +30,65 @@ Sistema Americano (MPAA - Motion Picture Association)
 
 **G** - General Audiences: Todas as idades admitidas
 
-PG - Parental Guidance Suggested: Algum material pode não ser adequado para crianças
+**PG** - Parental Guidance Suggested: Algum material pode não ser adequado para crianças
 
-PG-13 - Parents Strongly Cautioned: Algum material pode ser inadequado para menores de 13 anos
+**PG-13** - Parents Strongly Cautioned: Algum material pode ser inadequado para menores de 13 anos
 
-R - Restricted: Menores de 17 anos requerem acompanhante adulto
+**R** - Restricted: Menores de 17 anos requerem acompanhante adulto
 
-NC-17 - Adults Only: Apenas adultos (não aparece na sua lista)
+**NC-17** - Adults Only: Apenas adultos (não aparece na sua lista)
 
 fonte: https://www.motionpictures.org/film-ratings/
 
 Sistema Indiano (CBFC - Central Board of Film Certification)
 
-U - Unrestricted Public Exhibition: Para todas as idades
+**U** - Unrestricted Public Exhibition: Para todas as idades
 
-UA - Unrestricted Public Exhibition with caution: Para todas as idades, mas com aviso parental
+**UA** - Unrestricted Public Exhibition with caution: Para todas as idades, mas com aviso parental
 
-A - Adults Only: Apenas para adultos (18+)
+**A** - Adults Only: Apenas para adultos (18+)
 
 fonte: https://www.cbfcindia.gov.in/cbfcAdmin/
 
 Sistema Britânico (BBFC - antigo)
 
-U - Universal: Para todas as idades
+**U** - Universal: Para todas as idades
 
-A - Adult: Para adultos (histórico, não usado mais)
+**A** - Adult: Para adultos (histórico, não usado mais)
 
-U/A - Provavelmente variação do sistema indiano
+**U/A** - Provavelmente variação do sistema indiano
 
 fonte: https://www.bbfc.co.uk/
 
 Classificação de TV
 
-TV-PG - Parental Guidance Suggested: Programa de TV com orientação parental
+**TV-PG** - Parental Guidance Suggested: Programa de TV com orientação parental
 
 fonte: https://www.tvguidelines.org/
 
 Classificações Históricas (Antigas)
 
-Passed - Sistema antigo dos EUA (pré-1968): Filme aprovado sem restrições específicas
+**Passed** - Sistema antigo dos EUA (pré-1968): Filme aprovado sem restrições específicas
 
-Approved - Similar a "Passed", indica aprovação para exibição
+**Approved** - Similar a "Passed", indica aprovação para exibição
 
-GP - General Public: Antiga classificação similar à PG (1970-1972)
+**GP** - General Public: Antiga classificação similar à PG (1970-1972)
 
 fonte: https://www.filmsite.org/rating.html
 
 ## 4.	Estratégia adotada para solução
 
-Passo 1 - Descrição dos dados: O objetivo deste passo é ter um entendimento inicial de como os dados estão relacionados com o problema de negócio proposto.
+**Passo 1 - Descrição dos dados:** O objetivo deste passo é ter um entendimento inicial de como os dados estão relacionados com o problema de negócio proposto.
 
-Passo 2 - Engenharia de variáveis: Neste passo serão criadas hipóteses relativas ao negócio e também se necessário, poderão ser criadas novas variáveis a partir das variáveis originais a fim de melhorar a qualidade dos dados facilitando seu o entendimento.
+**Passo 2 - Engenharia de variáveis:** Neste passo serão criadas hipóteses relativas ao negócio e também se necessário, poderão ser criadas novas variáveis a partir das variáveis originais a fim de melhorar a qualidade dos dados facilitando seu o entendimento.
 
-Passo 3 - Filtragem das variáveis: Nesta etapa, é realizada a filtragem das variáveis com base nas restrições do negócio, ou seja, isso significa verificar se todas as variáveis essenciais estarão disponíveis na base de dados, garantindo que as informações necessárias para o modelo ou análise estejam presentes e possam ser acessadas durante a produção. Essa verificação é crucial para evitar erros futuros e assegurar que o sistema funcione corretamente quando for implementado em um ambiente de produção. Além disso, podemos identificar variáveis redundantes ou irrelevantes, que podem ser removidas para otimizar o desempenho.
+**Passo 3 - Filtragem das variáveis:** Nesta etapa, é realizada a filtragem das variáveis com base nas restrições do negócio, ou seja, isso significa verificar se todas as variáveis essenciais estarão disponíveis na base de dados, garantindo que as informações necessárias para o modelo ou análise estejam presentes e possam ser acessadas durante a produção. Essa verificação é crucial para evitar erros futuros e assegurar que o sistema funcione corretamente quando for implementado em um ambiente de produção. Além disso, podemos identificar variáveis redundantes ou irrelevantes, que podem ser removidas para otimizar o desempenho.
  
-Passo 4 - Análise exploratória: A análise exploratória dos dados (EDA) tem como principal objetivo proporcionar uma compreensão mais aprofundada dos dados, tais como: Compreender a distribuição das variáveis numéricas e categóricas, identificar outliers (valores atípicos), correlações entre  as variáveis entre outras análises.
+**Passo 4 - Análise exploratória:** A análise exploratória dos dados (EDA) tem como principal objetivo proporcionar uma compreensão mais aprofundada dos dados, tais como: Compreender a distribuição das variáveis numéricas e categóricas, identificar outliers (valores atípicos), correlações entre  as variáveis entre outras análises.
 
-Passo 5 - Preparação dos dados: Neste tópico, os dados poderão ser transformados, ou seja, as variáveis categóricas poderão ser convertidas em números, as variáveis numéricas poderão ser reescalados, em outras palavras, colocadas em uma escala comum. Também neste passo, serão testados os algoritmos de machine learning para avaliação.
+**Passo 5 - Preparação dos dados:** Neste tópico, os dados poderão ser transformados, ou seja, as variáveis categóricas poderão ser convertidas em números, as variáveis numéricas poderão ser reescalados, em outras palavras, colocadas em uma escala comum. Também neste passo, serão testados os algoritmos de machine learning para avaliação.
  
-Passo 6 - Conclusão.
+**Passo 6 - Conclusão.**
 
 ## 5.	Top 3 insights
 Hipótese 1: Filmes mais recentes têm notas mais altas?.
