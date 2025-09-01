@@ -65,29 +65,29 @@ Hipótese 1: Filmes mais recentes têm notas mais altas?.
 
 Falsa: Não existe uma correlação positiva e sim uma negativa (0,179), ou seja, quanto mais velho o filme melhor é sua nota.
 
-![](img/grafico_hipotese_1.png)
+![Imagem](img/grafico_hipotese_1.png)
 
 Hipótese 2: Filmes com elenco estrelado Star1 têm maior faturamento em relação aos filmes com elenco Star4?.
 
 Falsa: Filmes com atores classificados como Star4 apresentam em média um faturamento um pouco maior frente aos atores Star1, indicando que a classificação do ator não garante um faturamento maior por si só.
 
-![Formulario_medico](img/grafico_hipotese_2.png)
+![Imagem](img/grafico_hipotese_2.png)
 
 Hipótese 3: A nota média do IMDB aumentou ao longo dos anos?.
 
 Falsa: A nota média diminuiu ao longo dos anos.
 
-![Formulario_medico](img/grafico_hipotese_3.png)
+![Imagem](img/grafico_hipotese_3.png)
 
 ## 6.	Aplicação do modelo de machine learning
 Foram feitos testes com vários algoritmos de machine learning, utilizando a técnica de cross-validation e ajuste fino dos parâmetros.
 
-![Comparativo](img/comparativo_algoritmos.png)
+![Imagem](img/comparativo_algoritmos.png)
 
 ## 7.	Performance do modelo de machine learning
 O RandomForestRegressor foi selecionado como o melhor modelo, alcançando um RMSE de 0.273 na validação cruzada. No entanto, este resultado apresenta desempenho abaixo do esperado para a tarefa de previsão de notas do IMDB.
  
-![Formulario_medico](img/melhor_algoritmo.JPG)
+![Imagem](img/melhor_algoritmo.JPG)
 
 ## 8.	Conclusão
 O modelo de regressão para prever as notas apresentou resultados mistos. O Mean Absolute Error (MAE) de 0,22 ± 0,18 indica que, em média, as previsões do modelo divergem apenas 0,22 pontos da nota real, o que é considerado excelente em uma escala de 0 a 10. Da mesma forma, o Mean Absolute Percentage Error (MAPE) de 2,73% ± 0,02% confirma a alta precisão, com erro percentual médio abaixo de 3%, valor geralmente classificado como muito bom em projetos de previsão. O Root Mean Square Error (RMSE) de 0,28 ± 0,20 também ajuda na qualidade das previsões, mostrando que erros grandes são raros e que a maioria das previsões está concentrada próxima aos valores reais. No entanto, o coeficiente de determinação R² de 0,04 revela uma limitação significativa: o modelo explica apenas 4% da variabilidade total das notas do IMDB. Isso sugere que, embora as previsões sejam pontualmente precisas, o modelo não captura adequadamente os fatores subjacentes que influenciam as variações nas avaliações.
