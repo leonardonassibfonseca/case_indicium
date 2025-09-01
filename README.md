@@ -4,7 +4,7 @@
 
 ### Entrar na pasta do projeto: cd case_indicium
 
-### Instalar dependências d projeto, pois foi desenvolvido em Python 3.11 e requer as bibliotecas listadas no arquivo: pip install -r requirements.txt
+### Instalar dependências (desenvolvido em Python 3.11): pip install -r requirements.txt
 
 ### Abrir o Jupyter Notebook: jupyter notebook
 
@@ -28,7 +28,7 @@ Interpretação da coluna Certificate (faixa etária)
  
 Sistema Americano (MPAA - Motion Picture Association)
 
-G - General Audiences: Todas as idades admitidas
+**G** - General Audiences: Todas as idades admitidas
 
 PG - Parental Guidance Suggested: Algum material pode não ser adequado para crianças
 
