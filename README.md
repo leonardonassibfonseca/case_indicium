@@ -1,10 +1,10 @@
-# Como instalar:
+# Como executar o projeto:
 
 ### Clonar o repositório: git clone https://github.com/leonardonassibfonseca/case_indicium.git
 
 ### Entrar na pasta do projeto: cd case_indicium
 
-### Instalar dependências: pip install -r requirements.txt
+### Instalar dependências d projeto, pois foi desenvolvido em Python 3.11 e requer as bibliotecas listadas no arquivo: pip install -r requirements.txt
 
 ### Abrir o Jupyter Notebook: jupyter notebook
 
