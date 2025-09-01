@@ -1,16 +1,12 @@
 # Como instalar:
 
-# Clonar o repositório
-git clone https://github.com/leonardonassibfonseca/case_indicium.git
+### Clonar o repositório: git clone https://github.com/leonardonassibfonseca/case_indicium.git
 
-# Entrar na pasta do projeto
-cd case_indicium
+### Entrar na pasta do projeto: cd case_indicium
 
-# Instalar dependências
-pip install -r requirements.txt
+### Instalar dependências: pip install -r requirements.txt
 
-# Abrir o Jupyter Notebook
-jupyter notebook
+### Abrir o Jupyter Notebook: jupyter notebook
 
 # Case Indicium: Estúdio de Hollywood chamado PProductions
 
