@@ -18,32 +18,51 @@ Interpretação da coluna Certificate (faixa etária)
 Sistema Americano (MPAA - Motion Picture Association)
 
 G - General Audiences: Todas as idades admitidas
+
 PG - Parental Guidance Suggested: Algum material pode não ser adequado para crianças
+
 PG-13 - Parents Strongly Cautioned: Algum material pode ser inadequado para menores de 13 anos
+
 R - Restricted: Menores de 17 anos requerem acompanhante adulto
+
 NC-17 - Adults Only: Apenas adultos (não aparece na sua lista)
+
 fonte: https://www.motionpictures.org/film-ratings/
 
 Sistema Indiano (CBFC - Central Board of Film Certification)
+
 U - Unrestricted Public Exhibition: Para todas as idades
+
 UA - Unrestricted Public Exhibition with caution: Para todas as idades, mas com aviso parental
+
 A - Adults Only: Apenas para adultos (18+)
+
 fonte: https://www.cbfcindia.gov.in/cbfcAdmin/
 
 Sistema Britânico (BBFC - antigo)
+
 U - Universal: Para todas as idades
+
 A - Adult: Para adultos (histórico, não usado mais)
+
 U/A - Provavelmente variação do sistema indiano
+
 fonte: https://www.bbfc.co.uk/
 
 Classificação de TV
+
 TV-PG - Parental Guidance Suggested: Programa de TV com orientação parental
+
 fonte: https://www.tvguidelines.org/
 
 Classificações Históricas (Antigas)
+
 Passed - Sistema antigo dos EUA (pré-1968): Filme aprovado sem restrições específicas
+
 Approved - Similar a "Passed", indica aprovação para exibição
+
 GP - General Public: Antiga classificação similar à PG (1970-1972)
+
 fonte: https://www.filmsite.org/rating.html
 
 ## 4.	Estratégia adotada para solução
