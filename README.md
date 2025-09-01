@@ -2,7 +2,7 @@
 
  Prever qual será o próximo lançamento cinamatográfico
 
-![Formulario_medico](img/imagem_projeto.jpg)
+![Imagem](img/imagem_projeto.png)
 
 ## 1.	Problema de negócio
 Este projeto apresenta uma análise abrangente do banco de dados cinematográfico com o objetivo de orientar a decisão estratégica sobre o próximo filme a ser desenvolvido pela PProductions. A abordagem combina análise exploratória de dados, modelagem preditiva e considerações de mercado para maximizar o potencial de sucesso financeiro e crítico.
