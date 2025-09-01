@@ -2,7 +2,7 @@
 
  Prever qual será o próximo lançamento cinamatográfico
 
-<img src="img_projeto.png" alt="Cross Selling Insurance" width="500"/>
+<img src="imagem_projeto.png" alt="Imagem do Projeto" width="500"/>
 
 ## 1.	Problema de negócio
 Este projeto apresenta uma análise abrangente do banco de dados cinematográfico com o objetivo de orientar a decisão estratégica sobre o próximo filme a ser desenvolvido pela PProductions. A abordagem combina análise exploratória de dados, modelagem preditiva e considerações de mercado para maximizar o potencial de sucesso financeiro e crítico.
