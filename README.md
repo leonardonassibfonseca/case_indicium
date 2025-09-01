@@ -87,7 +87,7 @@ Foram feitos testes com vários algoritmos de machine learning, utilizando a té
 ## 7.	Performance do modelo de machine learning
 O RandomForestRegressor foi selecionado como o melhor modelo, alcançando um RMSE de 0.273 na validação cruzada. No entanto, este resultado apresenta desempenho abaixo do esperado para a tarefa de previsão de notas do IMDB.
  
-![Imagem](img/melhor_algoritmo.JPG)
+![Imagem](img/melhor_algoritmo.png)
 
 ## 8.	Conclusão
 O modelo de regressão para prever as notas apresentou resultados mistos. O Mean Absolute Error (MAE) de 0,22 ± 0,18 indica que, em média, as previsões do modelo divergem apenas 0,22 pontos da nota real, o que é considerado excelente em uma escala de 0 a 10. Da mesma forma, o Mean Absolute Percentage Error (MAPE) de 2,73% ± 0,02% confirma a alta precisão, com erro percentual médio abaixo de 3%, valor geralmente classificado como muito bom em projetos de previsão. O Root Mean Square Error (RMSE) de 0,28 ± 0,20 também ajuda na qualidade das previsões, mostrando que erros grandes são raros e que a maioria das previsões está concentrada próxima aos valores reais. No entanto, o coeficiente de determinação R² de 0,04 revela uma limitação significativa: o modelo explica apenas 4% da variabilidade total das notas do IMDB. Isso sugere que, embora as previsões sejam pontualmente precisas, o modelo não captura adequadamente os fatores subjacentes que influenciam as variações nas avaliações.
