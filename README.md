@@ -1,6 +1,6 @@
 # Case Indicium: Estúdio de Hollywood chamado PProductions
 
-Qual deverá ser o próximo lançamento cinamatográfico?
+Qual deverá ser o próximo lançamento cinematográfico da PProductions?
 
 ![Imagem](img/imagem_projeto.png)
 
