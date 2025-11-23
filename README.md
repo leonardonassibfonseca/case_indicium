@@ -125,7 +125,7 @@ As análises mostram que filmes de gêneros **Família, Ação e Aventura**, pre
 Embora o modelo preditivo tenha apresentado baixo poder explicativo devido à limitação dos dados, os padrões observados permitem orientar a estratégia do estúdio. Assim, recomenda-se priorizar a produção de filmes que combinem **gêneros de alta arrecadação, direção de reputação comprovada, classificação indicativa ampla e elenco com bom histórico comercial**, ainda que não necessariamente composto por celebridades de primeira linha.
 Portanto, o problema de negócio é respondido ao indicar que o estúdio deve direcionar seus esforços para projetos que maximizem alcance, apelo familiar e histórico comercial consolidado, aumentando assim a probabilidade de sucesso crítico e financeiro.
 
-### Relatório Executivo: git clone [https://github.com/leonardonassibfonseca/case_indicium.git](https://github.com/leonardonassibfonseca/case_indicium/blob/main/Relat%C3%B3rio%20Gerencial.pdf)
+### Relatório Gerencial de Resultados: https://github.com/leonardonassibfonseca/case_indicium/blob/main/Relat%C3%B3rio%20Gerencial%20de%20Resultados.pdf
 
 ## 9.	Próximos passos
 •	Utilizar outras técnicas para tratamento de grandes dados;
